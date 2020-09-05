@@ -1,1 +1,0 @@
-histogram -n 200 -N 0 -ng -pos <../prawhist32.T1.2.H2.46.dat >p2.46h
